@@ -12,3 +12,4 @@ D:\wincalc\obj\Debug\net8.0-windows\refint\calc.dll
 D:\wincalc\obj\Debug\net8.0-windows\calc.pdb
 D:\wincalc\obj\Debug\net8.0-windows\calc.genruntimeconfig.cache
 D:\wincalc\obj\Debug\net8.0-windows\ref\calc.dll
+d:\wincalc\obj\Debug\net8.0-windows\calc.sourcelink.json
