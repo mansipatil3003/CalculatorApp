@@ -1,0 +1,14 @@
+D:\wincalc\bin\Debug\net8.0-windows\calc.exe
+D:\wincalc\bin\Debug\net8.0-windows\calc.deps.json
+D:\wincalc\bin\Debug\net8.0-windows\calc.runtimeconfig.json
+D:\wincalc\bin\Debug\net8.0-windows\calc.dll
+D:\wincalc\bin\Debug\net8.0-windows\calc.pdb
+D:\wincalc\obj\Debug\net8.0-windows\calc.GeneratedMSBuildEditorConfig.editorconfig
+D:\wincalc\obj\Debug\net8.0-windows\calc.AssemblyInfoInputs.cache
+D:\wincalc\obj\Debug\net8.0-windows\calc.AssemblyInfo.cs
+D:\wincalc\obj\Debug\net8.0-windows\calc.csproj.CoreCompileInputs.cache
+D:\wincalc\obj\Debug\net8.0-windows\calc.dll
+D:\wincalc\obj\Debug\net8.0-windows\refint\calc.dll
+D:\wincalc\obj\Debug\net8.0-windows\calc.pdb
+D:\wincalc\obj\Debug\net8.0-windows\calc.genruntimeconfig.cache
+D:\wincalc\obj\Debug\net8.0-windows\ref\calc.dll
